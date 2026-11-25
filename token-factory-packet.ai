@@ -1,0 +1,5 @@
+name = "packet.ai Token Factory"
+npm = "@ai-sdk/openai-compatible"
+env = ["PACKET_API_KEY"]
+doc = "https://dash.packet.ai/docs"
+api = "https://api.packet.ai/v1"      
